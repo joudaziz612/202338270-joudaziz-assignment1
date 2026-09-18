@@ -103,3 +103,22 @@ button {
     padding: 20px;
   }
 }
+.dark-mode {
+  background-color: #1f1f1f;
+  color: #f5f5f5;
+}
+
+.dark-mode section {
+  background-color: #2b2b2b;
+}
+
+.dark-mode article {
+  background-color: #3a3a3a;
+}
+
+.dark-mode input,
+.dark-mode textarea {
+  background-color: #444;
+  color: white;
+  border: 1px solid #777;
+}
