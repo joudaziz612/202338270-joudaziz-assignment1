@@ -30,4 +30,4 @@ An ongoing web design project that helps users learn about different types of pl
 
 ## Live Website
 
-This website is deployed using GitHub Pages.
+[View My Portfolio](https://joudaziz612.github.io/202338270-joudaziz-assignment1/?name=LAYAN&email=goldviolet14%40gmail.com&message=HI#contact)
